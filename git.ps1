@@ -6,6 +6,6 @@
 #git push -u origin main
 
 git add.
-git commit -m "an commit"
+git commit -m "a commit"
 git branch -M main
 git push -u origin main
