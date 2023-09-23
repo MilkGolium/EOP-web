@@ -5,7 +5,7 @@
 #git remote add origin https://github.com/MilkGolium/EOP-web.git
 #git push -u origin main
 
-git add.
+git add .
 git commit -m "a commit"
 git branch -M main
 git push -u origin main
