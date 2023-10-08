@@ -8,3 +8,4 @@ http://8.130.110.178/index.html
 http://8.130.110.178/html/zatan/1.html
 http://8.130.110.178/html/cjswq/1.html
 http://8.130.110.178/html/cjswq/2.html
+http://8.130.110.178/html/dscz/1.html
